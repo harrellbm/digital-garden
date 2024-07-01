@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌱 Pastor Harrell's 🪴 Digital Garden 🌳",
+    pageTitle: "Pastor Harrell's\n🌱🪴🌳\nDigital Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "harrellbm.github.io/Digital-Garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -30,7 +30,7 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
+          gray: "#787878",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#284b63",
@@ -40,7 +40,7 @@ const config: QuartzConfig = {
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
-          gray: "#646464",
+          gray: "#a8a7a7",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#7b97aa",

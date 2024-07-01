@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Intro Page
 ---
-[[Digital Gardening]]
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the basic intro page
+
+- [[The Organization of My Digital Garden]]
+- [[Abundance Mindset]]
