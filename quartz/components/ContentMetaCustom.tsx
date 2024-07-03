@@ -31,10 +31,18 @@ export default ((opts?: Partial<ContentMetaCustomOptions>) => {
       let created 
       let modified
 
-      if (fileData.dates) {
-        //console.log("this is the file dates", fileData)
-        created = formatDate(fileData.dates.created!, cfg.locale)
-        modified = formatDate(fileData.dates.modified!, cfg.locale)
+      if (fileData.frontmatter['Note Planted:']) {
+        
+        console.log("this is the file dates", fileData.frontmatter['Note Planted:'])
+        let date = fileData.frontmatter['Note Planted:']
+        created = <div><b>Note Planted</b>: {date} <br/></div>
+      }
+
+      if (fileData.frontmatter['Last Tended:']) {
+        
+        console.log("this is the file dates", fileData.frontmatter['Last Tended:']) 
+        let date = fileData.frontmatter['Last Tended:']
+        modified = <div><b>Last Tended</b>: {date} <br/></div>
       }
 
       // Display reading time if enabled
@@ -47,13 +55,11 @@ export default ((opts?: Partial<ContentMetaCustomOptions>) => {
       }
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
-
+      
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          <span><b>Note Planted</b>: {created}</span>
-          <br/>
-          <span><b>Last Tended</b>: {modified}</span>
-          <br/>
+          {created}
+          {modified}
           {segmentsElements}
         </p>
       )
