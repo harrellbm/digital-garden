@@ -28,12 +28,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    
+    
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-    Component.RecentNotes(),
+    Component.Backlinks(), 
+    Component.Graph(),
+    Component.RecentNotes({title:"Recent Thoughts", showTags: false}),
+    
   ],
 }
 
