@@ -2,7 +2,7 @@
 "Note Planted:": 2024-06-27
 "Last Tended:": 2024-07-01
 ---
-#🌿Sapling #🙂Agree #🌲Evergreen 
+#🌿Sapling  #🙂Agree  #🌲Evergreen 
 ****
 > `Importance`: 60%
  

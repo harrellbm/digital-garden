@@ -8,7 +8,7 @@
   & > #search-icon {
     background-color: var(--lightgray);
     border-radius: 4px;
-    height: 2rem;
+    height: 1.6rem;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -78,7 +78,7 @@
         padding: 0.5em 1em;
         font-family: var(--bodyFont);
         color: var(--dark);
-        font-size: 1.1em;
+        font-size: 1.6em;
         border: 1px solid var(--lightgray);
 
         &:focus {

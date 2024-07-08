@@ -17,13 +17,13 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "harrellbm.github.io/Digital-Garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Special Elite",
+        body: "Architects Daughter",
         code: "IBM Plex Mono",
       },
       colors: {
