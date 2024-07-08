@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Special Elite",
         body: "Architects Daughter",
-        code: "Amatic SC Bold",
+        code: "Amatic SC",
       },
       colors: {
         lightMode: {
