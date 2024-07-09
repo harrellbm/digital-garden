@@ -32,16 +32,15 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(), 
     Component.Graph(),
-    Component.RecentNotes({title:"Recent Thoughts", showTags: false}),
-    
+    Component.Backlinks(), 
+    //Component.RecentNotes({title:"Recent Thoughts", showTags: false}),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMetaCustom(),],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
