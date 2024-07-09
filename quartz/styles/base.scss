@@ -70,7 +70,7 @@ a {
   &.internal {
     text-decoration: none;
     background-color: var(--highlight);
-    padding: 0 0.1rem;
+    padding: 0 0.2rem;
     border-radius: 5px;
     line-height: 1.4rem;
 
@@ -329,7 +329,7 @@ figure[data-rehype-pretty-code-figure] {
 
   & > [data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
-    font-size: 0.9rem;
+    font-size: 1rem;
     padding: 0.1rem 0.5rem;
     border: 1px solid var(--lightgray);
     width: max-content;
@@ -345,6 +345,7 @@ figure[data-rehype-pretty-code-figure] {
 
 pre {
   font-family: var(--codeFont);
+  font-size: 1rem;
   padding: 0 0.5rem;
   border-radius: 5px;
   overflow-x: auto;
@@ -358,7 +359,7 @@ pre {
   & > code {
     background: none;
     padding: 0;
-    font-size: 0.85rem;
+    font-size: 1.6rem;
     counter-reset: line;
     counter-increment: line 0;
     display: grid;
@@ -402,7 +403,8 @@ pre {
 }
 
 code {
-  font-size: 0.9em;
+  font-size: 1em;
+  font-weight: bold;
   color: var(--dark);
   font-family: var(--codeFont);
   border-radius: 5px;
