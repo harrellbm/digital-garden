@@ -11,44 +11,59 @@ I woke the next morning to the soft bubble of a stream I hadn't noticed the nigh
 At that moment, aspen trees began to mean something to me. 
 
 ![[Aspen Grove.png]]
-
 # Connected by the Roots
 
-metaphor of them all being connected by their root system
+Aspen trees are all connected by the roots. A grove is there for one big tree. 
 
+This is my experiment in [[Digital Gardening]].
 
-# Christian Collaboration
-problem of pastors and churches not collaborating in meaningful and open ways
-
-desire of this garden to be a space to explore that kind of collaboration
-
-
-# Welcome to the Aspen Grove
-description of my notes and the incomplete
+Basic description of the topological and iterative nature of these notes.
+description of my notes and their continued growth
 
 - iterative nature of them
 - topological nature of them through links forming paths
 - This is a different way of “Being” in digital space compared to stream based spaces like email, social media or blogs
-- [[Digital Gardening]]
+
+# Christian Collaboration
+Pastors and churches have a hard time collaborating in meaningful and open ways.
+
+We often get stuck in [[The Packaging Trap]] which is basically always trying to market a new curriculum, or book, or journal that should just be copy pasted into a new context. Which we all know does not work. Curriculums end up being more work than just doing something yourself most of the time. 
+
+So the desire of this garden is to be a space to explore collaboration that is more fluid and immediately useful for myself but also to visitors who use this garden as a resource. 
+
+There is nothing to sell or package or advertised, just a humble offering of ideas and concepts that are useful to me and maybe will be useful to someone else too.
+
+Starting conversations is far more important that publishing yet another book. 
+
+# Welcome to the Aspen Grove
 
 Description of how to use this garden as a reader extend metaphor of going on a journey also the ability to search for something [The Organization of My Digital Garden](https://harrellbm.github.io/Digital-Garden/The-Organization-of-My-Digital-Garden)
 
-Todo: start adding collected notes and writings
+
 
 Think through three “paths to start people on 
 
 Maybe corollary them to main areas of work
 
 # 🏞 Trailheads
-### Faith Formation and Pedagogy 
+
+Places to jump into the garden that are personally meaningful or interesting to me. 
+
+Todo: start adding collected notes and writings
+### Liturgy and Rhythm
+[[Embodiment of Community]]
+### Sacred Space and the Pedagogy of Our Surroundings
+[[Sacred Space]]
+### Discipleship, Faith Formation and Pedagogy
 [[Faith Formation]]
 
 [[Big Picture Theological Concepts]]
 
+[[Foundations of Discipleship]]
 ### Human and Faith Centered Tech
-
 [[Tech Framework]]
 
+[[A Creature among Machines]]
 ### Projects
 Things I have built or am working on. 
 [[Bookletic]]
