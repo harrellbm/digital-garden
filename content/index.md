@@ -1,15 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
 title: 🏕️ Base Camp 🌲
 ---
-#🪴Sprout  #🙂Agree 
-***
- >`Importance`: 10%
- 
-***The Big Idea***: Core home page for this garden
 
-* * *
 Hello! 👋🏻 
 My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkerer.
 
