@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-11
+"Last Tended:": 2024-07-17
 ---
 #🌿Sapling #🙂Agree #🌲Evergreen 
 ****
@@ -45,6 +45,7 @@ These are pieces of information I will attach to the beginning of each note that
 	- #📖Story A personal or interesting story I would like to save for personal memory and possible use in a sermon.
 	- #📝Essay A more polished written essay on a particular subject. 
 	- #📃Epistle A Short form writing that I generally send out once a month to my congregation on a particular thought or idea. Not a full treatment but kind of a devotional reading. 
+	- #🗣Sermon An oral presentation for a worship service that I have presented. I tend to keep notes in short from so they tend to not be full manuscripts. 
 	- #📚Definition A note that holds a kind of dictionary style definition of a word or phrase.
 	- #✒️Poem A personal or quoted poem.
 6. **Idea Importance**:

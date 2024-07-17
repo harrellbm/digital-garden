@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-11
+"Last Tended:": 2024-07-17
 ---
 #🌿Sapling #😁Strongly-Agree 
 * * *
