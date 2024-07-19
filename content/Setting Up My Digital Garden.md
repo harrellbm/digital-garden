@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-28
-"Last Tended:": 2024-07-17
+"Last Tended:": 2024-07-18
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -38,15 +38,17 @@ Code: Amatic SC
 # Todos for Website
 
 - [ ] figure out formatting on tags page. i.e. remove note tags under the listing
-- [ ] tweak search bar and dark mode on desktop placment. transition left side to grid css not just flex.
+- [ ] tweak search bar and dark mode on desktop placement. transition left side to grid css not just flex.
 - [ ] figure out recent notes not scrolling on desktop
 - [ ] change home to base camp on breadcrumbs
 - [ ] Add a table of contents page
-- [ ] make a special svg logo for the site. I am thinking three aspen leaves together in a circle
+- [ ] make a special svg logo for the site. I am thinking three aspen leaves together in a circle. make sure that it pops up on site correctly.
 - [ ] make sure callout colors and formatting make sense and look good
-- [ ] edit the footer to have a custom invite for people to reach out about an idea 
+- [ ] edit the footer to be clearer and simpler invite for people to reach out about an idea 
 - [ ] on light mode make the code blocks and tag blocks pop more
 - [ ] post all epistles 
 - [ ] post all formal essays
 - [ ] finish landing page
 - [ ] Set up gitscus for comments 
+- [ ] figure out table display as well so that it doesn't look gross
+- [ ] 
